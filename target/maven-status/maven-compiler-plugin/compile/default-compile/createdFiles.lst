@@ -1,0 +1,9 @@
+com\ppessoas\api\util\NullPropertys.class
+com\ppessoas\api\model\Address.class
+com\ppessoas\api\exception\GlobalExceptionHandler.class
+com\ppessoas\api\model\People.class
+com\ppessoas\api\PessoasApiApplication.class
+com\ppessoas\api\repository\AddressRepository.class
+com\ppessoas\api\service\PeopleService.class
+com\ppessoas\api\controller\PeopleController.class
+com\ppessoas\api\repository\PeopleRepository.class

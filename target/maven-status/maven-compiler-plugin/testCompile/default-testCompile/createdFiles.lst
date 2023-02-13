@@ -1,0 +1,10 @@
+com\ppessoas\api\util\NullPropertysTest.class
+com\ppessoas\api\repository\AddressRepositoryTest.class
+com\ppessoas\api\model\PeopleTest.class
+com\ppessoas\api\repository\PeopleRepositoryTest.class
+com\ppessoas\api\PessoasApiApplicationTests.class
+com\ppessoas\api\service\PeopleServiceTest.class
+com\ppessoas\api\model\AddressTest.class
+com\ppessoas\api\controller\PeopleControllerTest.class
+com\ppessoas\api\util\AddressUtilForTests.class
+com\ppessoas\api\util\PeopleUtilForTests.class
