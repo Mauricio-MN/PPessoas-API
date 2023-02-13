@@ -27,10 +27,10 @@ Uma Pessoa deve ter os seguintes campos:
 
 •	Endereço: 
 
-       o	Logradouro 
+   o	Logradouro 
   
-       o	CEP 
+   o	CEP 
   
-       o	Número 
+   o	Número 
   
-       o	Cidade
+   o	Cidade
